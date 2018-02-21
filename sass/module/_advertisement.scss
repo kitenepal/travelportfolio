@@ -1,0 +1,16 @@
+.advertise{
+	img{
+		width:100% !important;
+		height:200px !important;
+	}
+	.img-thumbnail{
+		border-radius: 0px !important;
+	}
+	
+}
+
+@media screen and (max-width: 960px){
+	.top-advertise{
+		margin-top: 20px;
+	}
+}
