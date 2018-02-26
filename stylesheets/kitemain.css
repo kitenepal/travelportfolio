@@ -17,7 +17,7 @@ body {
 /* line 12, ../sass/base/_base.scss */
 .heading--size {
   font-size: 5.8em;
-  text-shadow: 0px 0px 4px #096f64;
+  text-shadow: 0px 0px 4px #0b446b;
 }
 
 /* line 18, ../sass/base/_base.scss */
@@ -946,13 +946,13 @@ main.nav-is-visible {
 
 /* line 291, ../sass/module/_doctor.scss */
 .material-card.Red h2 {
-  background-color: #096f64;
+  background-color: #0b446b;
 }
 
 /* line 294, ../sass/module/_doctor.scss */
 .material-card.Red h2:after {
-  border-top-color: #096f64;
-  border-right-color: #096f64;
+  border-top-color: #0b446b;
+  border-right-color: #0b446b;
   border-bottom-color: transparent;
   border-left-color: transparent;
 }
@@ -968,8 +968,8 @@ main.nav-is-visible {
 /* line 306, ../sass/module/_doctor.scss */
 .material-card.Red.mc-active h2:before {
   border-top-color: transparent;
-  border-right-color: #096f64;
-  border-bottom-color: #096f64;
+  border-right-color: #0b446b;
+  border-bottom-color: #0b446b;
   border-left-color: transparent;
 }
 
@@ -983,17 +983,17 @@ main.nav-is-visible {
 
 /* line 318, ../sass/module/_doctor.scss */
 .material-card.Red .mc-btn-action {
-  background-color: #096f64;
+  background-color: #0b446b;
 }
 
 /* line 321, ../sass/module/_doctor.scss */
 .material-card.Red .mc-btn-action:hover {
-  background-color: #096f64;
+  background-color: #0b446b;
 }
 
 /* line 324, ../sass/module/_doctor.scss */
 .material-card.Red .mc-footer a {
-  background-color: #096f64;
+  background-color: #0b446b;
 }
 
 /* line 327, ../sass/module/_doctor.scss */
@@ -1296,7 +1296,7 @@ header {
   width: 70%;
   /*100%*/
   height: 94%;
-  background: #096f64;
+  background: #0b446b;
   transition: .5s;
   transform-origin: left;
   transform: perspective(2000px) rotateY(-90deg);
@@ -1311,7 +1311,7 @@ header {
     width: 70%;
     /*100%*/
     height: 95%;
-    background: #096f64;
+    background: #0b446b;
     transition: .5s;
     transform-origin: left;
     transform: perspective(2000px) rotateY(-90deg);
@@ -1472,7 +1472,7 @@ header {
 
 /* line 1, ../sass/module/_footer.scss */
 footer {
-  background-color: #096f64;
+  background-color: #0b446b;
   color: #fff;
 }
 /* line 4, ../sass/module/_footer.scss */
